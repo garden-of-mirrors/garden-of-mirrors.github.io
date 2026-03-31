@@ -1,6 +1,6 @@
 ---
 title: The Garden of Mirrors
-layout: template
+layout: page
 filename: readme.md
 --- 
 

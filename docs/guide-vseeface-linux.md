@@ -1,6 +1,6 @@
 ---
 title: The Garden of Mirrors - VSeeFace on Linux
-layout: template
+layout: page
 filename: guide-vseeface-linux.md
 --- 
 
