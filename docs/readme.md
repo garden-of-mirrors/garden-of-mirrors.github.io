@@ -1,7 +1,9 @@
 # "How Do I Vtuber And Gender": The Garden of Mirrors
 
 > A collectively curated collection of resources for expressing and exploring identities through vtubers!!
+
 Warning: website under construction, expect instabilities~
+
 ---
 ## Table of Contents:
 
@@ -14,6 +16,7 @@ Warning: website under construction, expect instabilities~
 (Advanced) Readings: [UNDER CONSTRUCTION]
 
 ---
+
 ## Introduction:
 
 A "Vtuber" is someone who uses a virtual model to represent themselves online through video, especially in the context of livestreaming sites such as YouTube and Twitch. As opposed to a normalized perspective that would expect those livestreaming, recording videos, or otherwise using cameras for some purpose to be showing their exact physical face and voice, vtubers present themselves through a virtual model that often is motion-captured to reflect their physical motions, and may optionally use voice changing software to alter their voice according to their model.
@@ -38,6 +41,7 @@ It's just a shame there's no easy guide on how to simply mess around with these,
 [***Oh, wait.*** (Continue for more about this project!)](/introduction-ex.md)
 
 ---
+
 ## Contribution:
 
 This guide could not be possible without the efforts of several guide lists that have been compiled before this one, and in no way is its current state meant to be final. (Still very work-in-progress, some of the aspects lack guides and many lack visual aids.)
