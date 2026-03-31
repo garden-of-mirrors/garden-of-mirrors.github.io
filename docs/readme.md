@@ -1,3 +1,9 @@
+---
+title: The Garden of Mirrors
+layout: template
+filename: readme.md
+--- 
+
 # "How Do I Vtuber And Gender": The Garden of Mirrors
 
 > A collectively curated collection of resources for expressing and exploring identities through vtubers!!
