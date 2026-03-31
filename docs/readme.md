@@ -35,7 +35,7 @@ Obviously, this exaggerates a bit, not all vtubers are *gender*queer specificall
 
 It's just a shame there's no easy guide on how to simply mess around with these, start small streams with them, voice call others with them, and make those models, and nothing especially suited to doing so with the entire gender thing in the mix.
 
-[***Oh, wait.*** (Continue for more about this project!)](/introduction-ex.html)
+[***Oh, wait.*** (Continue for more about this project!)](/introduction-ex.md)
 
 ---
 ## Contribution:
@@ -57,4 +57,4 @@ Depending on whether you're looking into 3D vtubing, PNGtubing (static/keyframed
 [VRoid Studio](https://vroid.com/en/studio) is one of the more accessible tools for 3D modeling, with a dress-up game or character creator styled parameterized modeling tool. (Essentially, a base model with sliders to adjust it and modify the common elements, that allows custom textures as well as built-in presets to be imported.)
 
 [VSeeFace](https://www.vseeface.icu/) is an open source face tracking tool, used for .vrm models exported from VRoid Studio and other 3D modeling software.
-As many people - myself included - migrate to Linux with the increasing copilot-ification of Windows, VSeeFace does work with Linux machines, albeit with [a few workarounds detailed here](/resources-vseeface-linux.html).
+As many people - myself included - migrate to Linux with the increasing copilot-ification of Windows, VSeeFace does work with Linux machines, albeit with [a few workarounds detailed here](/resources-vseeface-linux.md).
