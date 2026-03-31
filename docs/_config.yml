@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - contribution-ex.md
+  - guide-obs-camera.md
+  - guide-obs-stream.md
+  - guide-vseeface-linux.md
+  - introduction-ex.md
+  - introduction-mikoto.md
+  - readme.md
+  - resources-3d-rigging-ex.md
+  - resources-readings.md
+  - resources-voice-training-ex.md

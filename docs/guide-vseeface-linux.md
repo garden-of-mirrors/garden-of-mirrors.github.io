@@ -1,9 +1,3 @@
----
-title: The Garden of Mirrors - VSeeFace on Linux
-layout: page
-filename: guide-vseeface-linux.md
---- 
-
 # 3D Models / Model Tracking: VSeeFace
 
 ### ~Under construction, please wait warmly~
